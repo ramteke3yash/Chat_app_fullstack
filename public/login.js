@@ -51,5 +51,5 @@ document.getElementById("forgotpassword").addEventListener("click", () => {
 });
 
 document.getElementById("signup").addEventListener("click", () => {
-  window.location.href = "./sign-up.html";
+  window.location.href = "./sign_up.html";
 });
